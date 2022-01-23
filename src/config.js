@@ -27,12 +27,12 @@ const layerConfigurations = [
     growEditionSizeTo: 5,
     layersOrder: [
       { name: "Background" },
-      { name: "Eyeball" },
-      { name: "Eye color" },
-      { name: "Iris" },
-      { name: "Shine" },
-      { name: "Bottom lid" },
-      { name: "Top lid" },
+      { name: "Skins" },
+      { name: "Faces" },
+      { name: "Clothes" },
+      { name: "Outline" },
+      { name: "Head" },
+      { name: "Accessory" },
     ],
   },
 ];
@@ -78,7 +78,9 @@ const background = {
   default: "#000000",
 };
 
-const extraMetadata = {};
+const extraMetadata = {
+
+};
 
 const rarityDelimiter = "#";
 
