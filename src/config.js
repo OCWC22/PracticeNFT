@@ -26,7 +26,7 @@ const layerConfigurations = [
   {
     growEditionSizeTo: 5,
     layersOrder: [
-<<<<<<< HEAD
+
       { name: "Background" },
       { name: "Skins" },
       { name: "Faces" },
@@ -34,16 +34,7 @@ const layerConfigurations = [
       { name: "Outline" },
       { name: "Head" },
       { name: "Accessory" },
-=======
-      { name: "1Backgrounds" },
-      { name: "2Skins" },
-      { name: "3Faces" },
-      { name: "4Clothes" },
-      { name: "5Outline" },
-      { name: "6Head" },
-      { name: "7Accessory" },
-      { name: "8Legendaries" }
->>>>>>> a4f4fa9ad521f674e15ff2fa877c2a95b6f11906
+
     ],
   },
 ];
